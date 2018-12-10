@@ -1,7 +1,9 @@
 <?php  include 'dataConnect.php';  ?>
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+ <body>
+	</body>
+	<head>
     <meta charset="utf-8">
     <title>Product Details</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
