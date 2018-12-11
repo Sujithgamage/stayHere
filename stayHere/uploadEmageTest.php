@@ -46,7 +46,7 @@ and open the template in the editor.
             </div>
             
             <div>
-              <br>  <input type="submit" id = "driver" name="upload" value="upload image">
+              <br>  <input type="submit" id = "driver" name="upload" value="upload images">
             </div>
         </form>
         
