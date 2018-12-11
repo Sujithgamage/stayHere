@@ -30,7 +30,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-    <h3>Upload Image for Drivers</h3>
+    <h3>Upload Image for Driver</h3>
        
         <title>Images Upload</title>
         
