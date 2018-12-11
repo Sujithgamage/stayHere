@@ -32,7 +32,7 @@ and open the template in the editor.
     <head>
     <h3>Upload Image for Drivers</h3>
        
-        <title>Image Upload</title>
+        <title>Images Upload</title>
         
     </head>
     <body>
